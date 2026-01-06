@@ -1,4 +1,4 @@
-# smol-serve
+# nano-sglang
 
 A ground-up reimplementation of [Mini-SGLang](https://github.com/sgl-project/mini-sglang) for educational purposes.
 
